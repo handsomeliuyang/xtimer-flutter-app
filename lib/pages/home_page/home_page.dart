@@ -72,8 +72,8 @@ class _HomePageState extends State<HomePage> {
         ),
       ),
       floatingActionButton: FloatingActionButton(
-        child: Icon(Icons.add, size: 26, color: Colors.black),
-        backgroundColor: Colors.white,
+        child: Icon(Icons.add, size: 26, color: Colors.white),
+        backgroundColor: Colors.blue,
         onPressed: _openBottomSheet,
       ),
       body: Container(
